@@ -10,9 +10,9 @@ Git
 Node.js
 npm (Node Package Manager)
 Cloning the Repository
-
-git clone https://github.com/JavaScript-Mastery-Pro/moodflix.git
-cd moodflix
+[
+git clonehttps://github.com/kashi1229/React-Movie_App.git)
+cd movie_app
 Installation
 
 Install the project dependencies using npm:
